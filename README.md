@@ -5,13 +5,13 @@ React web application to practice
 - npx create-react-app react-monster
 - cd react-monster
 - yarn start
-creates the public folder from the workspace src
+  - creates the public folder from the workspace src
+  - inject jsx `<app>` into dom `<div id=root>`
 
 ## deploy
 - npm run build
-creates the optimized build folder
-babel and webpack
-inject jsx <app> into <div id=root>
+  - creates the optimized build folder
+  - babel and webpack
 
 ## advanced
 - yarn eject
@@ -21,3 +21,7 @@ inject jsx <app> into <div id=root>
 
 ## useful api
 https://jsonplaceholder.typicode.com/users
+
+## screenshot
+
+## page
