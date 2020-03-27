@@ -9,6 +9,10 @@ React web application to practice
   - inject jsx `<app>` into dom `<div id=root>`
 
 ## deploy
+- yarn build
+  -- script added to build and deploy to github pages
+
+## deploy background
 - yarn add gh-pages
   - added homepage, prebuild and build into packages
   - pre prefix into script make it runs first
