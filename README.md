@@ -5,7 +5,7 @@ React web application to practice
 - npx create-react-app react-monster
 - cd react-monster
 - yarn start
-creates the public folder from the workspace src
+  - creates the public folder from the workspace src
 
 ## deploy
 - npm run build
