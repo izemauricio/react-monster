@@ -27,8 +27,8 @@ React web application to practice
 - lifting state up
 
 ## useful api
-  https://jsonplaceholder.typicode.com/users
-  https://robohash.org/1?set=set1&size=200x200
+- https://jsonplaceholder.typicode.com/users
+- https://robohash.org/1?set=set1&size=200x200
 
 ## screenshot
 
