@@ -9,9 +9,9 @@ React web application to practice
 
 ## deploy
 - npm run build
-  creates the optimized build folder
-  babel and webpack
-  inject jsx <app> into <div id=root>
+  - creates the optimized build folder
+  - babel and webpack
+  - inject jsx <app> into <div id=root>
 
 ## advanced
 - yarn eject
