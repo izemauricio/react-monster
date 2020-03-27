@@ -9,6 +9,9 @@ React web application to practice
   - inject jsx `<app>` into dom `<div id=root>`
 
 ## deploy
+- yarn add gh-pages
+  - added homepage, prebuild and build into packages
+  - pre prefix into script make it runs first
 - npm run build
   - creates the optimized build folder
   - babel and webpack
