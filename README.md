@@ -27,4 +27,5 @@ https://jsonplaceholder.typicode.com/users
 
 ## screenshot
 
-## page
+## github page
+- https://izemauricio.github.io/react-web-monster/
