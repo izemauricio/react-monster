@@ -6,12 +6,12 @@ React web application to practice
 - cd react-monster
 - yarn start
   - creates the public folder from the workspace src
+  - inject jsx `<app>` into dom `<div id=root>`
 
 ## deploy
 - npm run build
   - creates the optimized build folder
   - babel and webpack
-  - inject jsx `<app>` into dom `<div id=root>`
 
 ## advanced
 - yarn eject
