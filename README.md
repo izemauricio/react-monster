@@ -11,7 +11,7 @@ React web application to practice
 - npm run build
   - creates the optimized build folder
   - babel and webpack
-  - inject jsx <app> into <div id=root>
+  - inject jsx `<app>` into `<div id=root>`
 
 ## advanced
 - yarn eject
