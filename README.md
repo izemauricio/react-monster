@@ -21,3 +21,7 @@ React web application to practice
 
 ## useful api
 https://jsonplaceholder.typicode.com/users
+
+## screenshot
+
+## page
